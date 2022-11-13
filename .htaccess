@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Area"
-AuthUserFile /folder/.htpasswd
+AuthUserFile https://aleksey-bor.github.io/testPassword/folder/test.php
 Require valid-user
